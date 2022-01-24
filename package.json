@@ -1,0 +1,10 @@
+{
+  "name": "insomnia-plugin-demo-example",
+  "version": "0.0.1",
+  "private": false,
+  "insomnia": {
+    "name": "demo-example",
+    "description": "example insomnia plugin"
+  },
+  "main": "main.js"
+}
